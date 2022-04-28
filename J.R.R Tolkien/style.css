@@ -1,0 +1,64 @@
+body {
+    background-color: #ffffff;
+    color: #000000;
+}
+
+#main {
+    border: 5px solid rgb(0, 0, 0); 
+    border-radius: 10%; 
+    text-align: center;
+    font-family: "Gill Sans", sans-serif;
+    font-size: 15px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    letter-spacing: 1px;
+    
+}
+
+q {
+    display: block;
+}
+
+.tribute-info {
+    text-align: left;
+    padding-left: 25px;
+}
+
+.image {
+    display: flex;
+    align-self: center;
+    width: 100%;
+    align-self: center;
+    border-radius: 15%;
+}
+
+.img-caption {
+    text-decoration: underline;
+    font-weight: bold;
+    padding-left: 50px;
+}
+
+ul {
+    align-items: center;
+    list-style-type: none;
+}
+
+.tribute-link {
+    display: inline-block;
+    border: 3px solid black;
+    border-radius: 10%;
+    margin-left: 50px;
+    margin-bottom: 20px;
+    padding: 10px;
+    color: black;
+}
+
+.tribute-link:hover { 
+    background-color: black;
+    color: white;
+}
+
+
+

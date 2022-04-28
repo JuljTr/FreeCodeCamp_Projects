@@ -1,0 +1,235 @@
+*, *:before, *:after { 
+    box-sizing: border-box;
+}
+
+body { 
+    margin: 0 0 0 0;
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.header {
+    width: 100%;
+    height: 100px;
+    padding: 10px 0 10px 30px;
+    display: flex;
+    flex-direction: row;
+    position: fixed;
+    top: 0;
+    justify-content: space-between;
+    background-color: white;
+}
+
+.header-img { 
+    border-radius: 60%;
+}
+
+.nav-link {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 0px 10px 10px 3px;
+    list-style: none;
+    border-left: 1px solid black ;
+}
+
+a { 
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+    color: black;
+}
+
+ a:hover {
+    color: #f0efeb;
+}
+
+.search { 
+    text-align: center;
+    padding-bottom: 3%;
+    background-color: #ffb4a2;
+}
+
+.title { 
+    text-decoration: underline;
+    text-transform: capitalize;
+}
+
+#email { 
+    width: 300px;
+    height: 35px;
+    border: 0;
+    background-color: #d8e2dc;
+    text-align: center;
+}
+
+.button { 
+    padding: 10px 10px 10px 10px;
+    width: 100px;
+    background-color: #073b4c;
+    color: white;
+    border: 0 solid white;
+    border-radius: 12%;
+    font-weight: 600;
+    margin-top: 15px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.button:hover { 
+    background-color: #06d6a0;
+    border: none;
+}
+
+.container { 
+    margin: 7% auto 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 70%;
+    background-color: #ffb4a2;
+}
+
+.onlineshop { 
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: #f0efeb;
+    width: 82%;
+    margin-left: auto;
+    margin-right: auto;
+    border: none;
+    border-radius: 10%;
+}
+
+p {
+    margin: 2% 20% 2% 20%;
+}
+
+.images { 
+    margin-right: 2%;
+    width: 40px;
+}
+
+.feature { 
+    margin-left: 2%;
+}
+
+.video { 
+    margin: auto auto;
+    margin-top: 5%;
+    max-width: 100%;
+    height: auto;
+}
+
+.aboutus { 
+    width: 200px;
+    margin: auto auto;
+    font-weight: 700;
+    background-color: #f0efeb;
+    text-align: center;
+    border: none;
+    border-radius: 7%;
+}
+
+.ourproduct { 
+    margin: 5% auto 5% auto;
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+    background-color: #ffb4a2;
+}
+
+
+.artisancake, .artisanbread { 
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border-right: 1px solid black;
+    text-align: center;
+    padding: 2% 5% 5% 5%;
+}
+
+.pastry {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: center;
+    padding: 2% 5% 5% 5%;
+}
+
+.productlist { 
+    list-style: none;
+    text-align: center;
+}
+
+ul { 
+    padding: 0px;
+}
+
+.buttonlist { 
+    padding: 10px 10px 10px 10px;
+    width: 80px;
+    background-color: #073b4c;
+    color: white;
+    border: 0 solid white;
+    border-radius: 12%;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+    align-self: center;
+}
+
+.buttonlist:hover { 
+    color: black;
+    background-color: #e9c46a;
+}
+
+footer { 
+    display: flex;
+    flex-direction: column;
+   justify-content: flex-start;
+
+}
+
+.footerlist { 
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.footerlist1 { 
+    padding: 10%;
+    border-right: 1ps solid black;
+}
+.copyright { 
+    width: 2%;
+}
+
+@media only screen and (max-width:400px) {
+    *, *:before, *:after { 
+        box-sizing: border-box;
+    }
+
+    body { 
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    }
+
+    .container { 
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    }
+
+    .header { 
+        width: 100%;
+    }
+}
