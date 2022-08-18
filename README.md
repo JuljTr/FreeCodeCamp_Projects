@@ -1,7 +1,6 @@
-# Personal Blog Website Project Rubric
+# Responsive Web Design Course Projects
 
-This project is part of the Udacity Front-End Program.
-To built the Personal Blog project required knowledge and implementation of HTML and CSS fundamentals and concepts. The layout of the rubric blog was created with Grid and Flexbox in order to have a responsive web design.
+A series of Certification Projects Responsive Web Design course. 
 
 ## Table of Contents
 - [List of Projects](#ListofProjects)
@@ -11,8 +10,11 @@ To built the Personal Blog project required knowledge and implementation of HTML
 
 ## List of Projects
 
-* J.R.R Tolkien - Tribute Page
-* MyPortofolio - Personal 
+* Tribute Page - J.R.R Tolkien
+* Personal Portofolio Webpage - MyPortofolio
+* Product Landing Page
+* Survey Form
+* Technical Documentation Page
 
 ## Resources Used 
 
