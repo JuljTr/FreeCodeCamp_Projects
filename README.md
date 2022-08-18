@@ -1,6 +1,6 @@
 # Responsive Web Design Course Projects
 
-A series of Certification Projects Responsive Web Design course. 
+A series of Certification Projects required for the Responsive Web Design course created by freeCodeCamp. 
 
 ## Table of Contents
 - [List of Projects](#ListofProjects)
@@ -10,7 +10,7 @@ A series of Certification Projects Responsive Web Design course.
 
 ## List of Projects
 
-* Tribute Page - J.R.R Tolkien
+* Tribute Page - [J.R.R Tolkien](https://github.com/JuljTr/FreeCodeCamp_Projects/tree/master/J.R.R%20Tolkien)
 * Personal Portofolio Webpage - MyPortofolio
 * Product Landing Page
 * Survey Form
