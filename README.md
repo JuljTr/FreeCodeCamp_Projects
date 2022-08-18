@@ -11,10 +11,10 @@ A series of Certification Projects required for the Responsive Web Design course
 ## List of Projects
 
 * Tribute Page - [J.R.R Tolkien](https://github.com/JuljTr/FreeCodeCamp_Projects/tree/master/J.R.R%20Tolkien)
-* Personal Portofolio Webpage - MyPortofolio
-* Product Landing Page
-* Survey Form
-* Technical Documentation Page
+* Personal Portofolio Webpage - [MyPortofolio](https://github.com/JuljTr/FreeCodeCamp_Projects/tree/master/MyPortofolio)
+* [Product Landing Page](https://github.com/JuljTr/FreeCodeCamp_Projects/tree/master/ProductLandingPage)
+* [Survey Form](https://github.com/JuljTr/FreeCodeCamp_Projects/tree/master/SurveyForm)
+* [Technical Documentation Page](https://github.com/JuljTr/FreeCodeCamp_Projects/tree/master/Technical%20Documentation%20Page)
 
 ## Resources Used 
 
